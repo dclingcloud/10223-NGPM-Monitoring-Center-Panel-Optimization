@@ -1,0 +1,6 @@
+{
+  "name": "NGPM 监控中心",
+  "description": "NGPM 监控中心建连成功率性能监控看板界面",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
